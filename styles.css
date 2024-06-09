@@ -1,0 +1,75 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #7e4747; 
+
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+h1 {
+    color: #a80e0e;
+}
+
+
+
+nav {
+    background-color: #2a2e2a; 
+    padding: 10px;
+    width: 100%; 
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly   ;
+}
+
+
+nav a {
+    color: white; 
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 18px;
+}
+
+
+
+ol {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 40px;
+}
+
+h2 {
+    color: #408342; 
+}
+p {
+    color: #ffffff; 
+}
+
+
+
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+#Actividades-favo{
+    color: red;
+
+}
+header{
+    display: flex;
+    justify-content: center;
+    
+}
